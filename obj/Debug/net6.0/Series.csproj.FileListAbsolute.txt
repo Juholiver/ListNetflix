@@ -1,0 +1,15 @@
+C:\Angular\DigitalOne\DotNetFlix\Series\bin\Debug\net6.0\Series.exe
+C:\Angular\DigitalOne\DotNetFlix\Series\bin\Debug\net6.0\Series.deps.json
+C:\Angular\DigitalOne\DotNetFlix\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+C:\Angular\DigitalOne\DotNetFlix\Series\bin\Debug\net6.0\Series.dll
+C:\Angular\DigitalOne\DotNetFlix\Series\bin\Debug\net6.0\Series.pdb
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.dll
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\refint\Series.dll
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.pdb
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
+C:\Angular\DigitalOne\DotNetFlix\Series\obj\Debug\net6.0\ref\Series.dll
